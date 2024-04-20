@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codebytequill
-- 🌱 I’m currently learning WordPress development and am working on several websites from the ground up
+- 🌱 I’m changed my course of action in the past two years and am now focusing on AI prompt engineering and machine learning.
 
 <!---
 codebytequill/codebytequill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
