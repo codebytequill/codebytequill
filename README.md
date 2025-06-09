@@ -24,7 +24,7 @@ I'm currently diving deep into the world of Python, exploring everything from we
 
 ### A Little More About Me
 
-When I'm not coding, you can find me `[participating in progressive activism, reading a million books, taking courses, sculpting miniature clay cakes, dabbling in AI art, badly playing my guitar, and drinking copious amounts of black coffee]`. I believe the best solutions come from diverse perspectives, and I'm always open to a chat about technology, career transitions, or the best place to find a great taco!
+When I'm not coding, you can find me `participating in progressive activism, reading a million books, taking courses, sculpting miniature clay cakes, dabbling in AI art, badly playing my guitar, and drinking copious amounts of black coffee`.  I believe the best solutions come from diverse perspectives, and I'm always open to a chat about technology, career transitions, or the best place to find a great taco!
 
 ### Let's Connect!
 
