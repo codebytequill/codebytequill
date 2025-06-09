@@ -13,7 +13,7 @@ I'm currently diving deep into the world of Python, exploring everything from we
 * Learning and building with **Python**, **Flask**, and **SQLAlchemy**.
 * Sharpening my front-end skills with **HTML**, **CSS**, and **JavaScript**.
 * Exploring the fundamentals of **data structures and algorithms**.
-* My first major project, `Filipino Family Communication Adapter`, which is a `A web-based tool designed to help bridge communication gaps between generations in Filipino-American families, particularly for elderly relatives who may have hearing difficulties, mild dementia, autism spectrum traits, or cultural/linguistic differences.`.
+* My first major project, `Filipino Family Communication Adapter`, which is a `A web-based tool designed to help bridge communication gaps between generations in Filipino-American families, particularly for elderly relatives who may have hearing difficulties, mild dementia, autism spectrum traits, or cultural/linguistic differences. I'll be adding more to this as the project progresses`.
 
 ### My Tech Stack
 
