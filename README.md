@@ -2,7 +2,7 @@
 
 Welcome to my little corner of the internet where I'm documenting my journey from academia to real estate to AI/ML and model development.
 
-For over a decade, I've thrived on solving complex technical problems and leading teams to do the same. I've always been the person who loves digging into the "why" behind the "what." That curiosity has led me here—to not just solve the problem, but to build the solution.
+For over a decade, I've thrived on solving complex technical problems and leading teams to do the same. I've always been the person who loves digging into the "why" behind the "what." That curiosity has led me here - to not just solve the problem, but to build the solution.
 
 I'm currently diving deep into the world of Python, exploring everything from web development to data analytics. My goal is to leverage my years of user-facing technical experience to build intuitive, efficient, and human-centered applications.
 
