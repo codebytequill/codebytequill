@@ -1,4 +1,4 @@
-# Hi there, I'm Lisa Ronquillo! 🦁
+# Hi there, I'm Lisa! 🦁
 
 Welcome to my little corner of the internet where I'm documenting my journey from academia to real estate to AI/ML and model development.
 
