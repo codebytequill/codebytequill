@@ -8,12 +8,12 @@ I'm currently diving deep into the world of Python, exploring everything from we
 
 ---
 
-### What I'm Currently Working On
+### What I'm Building
+*Ethos Annotation Solutions (EAS): My new venture focused on ethical AI data labeling and annotation. We specialize in human-centered datasets that prioritize marginalized communities, ensuring AI is built on equity and transparency.
 
-* Learning and building with **Python**, **Flask**, and **SQLAlchemy**.
-* Sharpening my front-end skills with **HTML**, **CSS**, and **JavaScript**.
-* Exploring the fundamentals of **data structures and algorithms**.
-* My first major project, `Filipino Family Communication Adapter`, which is a `A web-based tool designed to help bridge communication gaps between generations in Filipino-American families, particularly for elderly relatives who may have hearing difficulties, mild dementia, autism spectrum traits, or cultural/linguistic differences. I'll be adding more to this as the project progresses`.
+* Filipino Family Communication Adapter (Initial prototype under the EAS umbrella): One of my first major projects, `Filipino Family Communication Adapter`, which is a `A web-based tool designed to help bridge communication gaps between generations in Filipino-American families, particularly for elderly relatives who may have hearing difficulties, mild dementia, autism spectrum traits, or cultural/linguistic differences. I'll be adding more to this as the project progresses`.
+
+* AI Ethics Frameworks: Developing interactive tools like the Ethical AI Project Canvas to bridge the gap between high-level ethics and technical implementation.
 
 ### My Tech Stack
 
