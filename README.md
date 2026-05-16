@@ -1,26 +1,61 @@
-# Hi there, I'm Lisa! 🦁
+# Hi, I'm Lisa 👋
+Founder of Ethos Annotation Solutions | NVIDIA Inception Member | AI Annotation Specialist | Building human-centered AI systems and health companion tools.
 
-Welcome to my little corner of the internet where I'm documenting my journey from academia to real estate to AI/ML and model development.
+Welcome to my corner of GitHub.
 
-For over a decade, I've thrived on solving complex technical problems and leading teams to do the same. I've always been the person who loves digging into the "why" behind the "what." That curiosity has led me here - to not just solve the problem, but to build the solution.
+I'm passionate about ethical AI, annotation systems, LLM evaluation, research organization, and creating technology that feels useful, thoughtful, and deeply human.
+My background combines AI training, prompt engineering, technical writing, research, and years of experience solving real-world problems across multiple industries. I enjoy building systems that help people make sense of complexity-whether that means organizing knowledge, identifying patterns, or creating tools that support reflection and decision-making.
 
-I'm currently diving deep into the world of Python, exploring everything from web development to data analytics. My goal is to leverage my years of user-facing technical experience to build intuitive, efficient, and human-centered applications.
+Current Projects
+
+## 🦋 Thyroid GPT Companion
+A gentle AI-assisted companion and knowledge system for thyroid tracking, symptom reflection, research organization, pattern recognition, and doctor visit preparation.
+
+Features include:
+
+- Symptom tracking
+- Supplement organization
+- Tiny wins + energy tracking
+- Research library
+- Prompt command center
+- Educational companion tools
+
+Educational only - not diagnostic.
 
 ---
 
-### What I'm Building
-*Ethos Annotation Solutions (EAS): My new venture focused on ethical AI data labeling and annotation. We specialize in human-centered datasets that prioritize marginalized communities, ensuring AI is built on equity and transparency.
+### 🧠 Ethos Annotation Solutions
+Building ethical, human-centered AI systems focused on quality, transparency, annotation workflows, and responsible implementation.
 
-* Filipino Family Communication Adapter (Initial prototype under the EAS umbrella): One of my first major projects, `Filipino Family Communication Adapter`, which is a `A web-based tool designed to help bridge communication gaps between generations in Filipino-American families, particularly for elderly relatives who may have hearing difficulties, mild dementia, autism spectrum traits, or cultural/linguistic differences. I'll be adding more to this as the project progresses`.
+Areas of interest:
 
-* AI Ethics Frameworks: Developing interactive tools like the Ethical AI Project Canvas to bridge the gap between high-level ethics and technical implementation.
+- LLM evaluation
+- Prompt engineering
+- Human feedback systems
+- Annotation quality frameworks
+- AI workflow design
 
-### My Tech Stack
+Tech + Tools
 
-* **Languages:** Python, JavaScript, HTML5, CSS3
-* **Frameworks & Libraries:** Flask, SQLAlchemy, Node.js
-* **Databases:** PostgreSQL, SQLite
-* **Tools & Platforms:** Git, GitHub, VS Code, Heroku
+- Prompt Engineering
+- LLM Evaluation
+- Human Feedback Systems
+- Python
+- HTML/CSS
+- GitHub
+- Notion Systems Design
+- AI Annotation + QA
+- HubSpot
+- Technical Writing
+- Research Organization
+
+Currently Learning
+
+- AI product development
+- Health-tech systems
+- Human-centered AI design
+- Building practical tools with AI
+
 
 ### A Little More About Me
 
@@ -30,3 +65,4 @@ When I'm not coding, you can find me `participating in progressive activism, rea
 
 * **LinkedIn:** [linkedin.com/in/lisaronquillo](https://www.linkedin.com/in/lisaronquillo/)
 * **Email:** `codebytequill@gmail.com`
+* **GitHub:** You're already here!
