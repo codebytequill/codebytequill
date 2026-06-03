@@ -24,7 +24,7 @@ Educational only - not diagnostic.
 
 ---
 
-Ethos CareMap
+## Ethos CareMap
 
 A privacy-first medical organization and care coordination tool designed to help patients and caregivers track timelines, records, providers, questions, and healthcare events.
 
@@ -46,6 +46,7 @@ Educational and organizational tool. Not intended for diagnosis, treatment, or m
 ---
 
 ### Ethos Annotation Solutions
+
 Building ethical, human-centered AI systems focused on quality, transparency, annotation workflows, and responsible implementation.
 
 Areas of interest:
