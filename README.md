@@ -45,7 +45,7 @@ Educational and organizational tool. Not intended for diagnosis, treatment, or m
 
 ---
 
-### 🧠 Ethos Annotation Solutions
+### Ethos Annotation Solutions
 Building ethical, human-centered AI systems focused on quality, transparency, annotation workflows, and responsible implementation.
 
 Areas of interest:
